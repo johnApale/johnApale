@@ -2,11 +2,15 @@
 
 
 ### I'm John Apale, a software engineer from Cal State Long Beach. I enjoy building and trying new things through programming. I am a continuous learner, always striving to improve my software development skills.
-
+<b>Take a look at my portfolio:
+[apale.io](https://www.apale.io/ "apale io")
+</b>
 <p align="center">
   <a href="https://github.com/johnApale"><img src="https://github.com/johnApale/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/></a>
   <a href="https://github.com/johnApale"><img src="https://github.com/johnApale/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/></a>
 </p>
+
+
 
 - - - -
 
